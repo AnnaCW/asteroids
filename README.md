@@ -25,7 +25,7 @@ Unit tests were written using Chai. They can be run by cloning down the project,
 
 ### Production
 
-ADD LINK
+[Production](https://github.com/AnnaCW/asteroids.git)
 
 ### Installation
 
